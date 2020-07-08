@@ -1,0 +1,16 @@
+{"app": {
+    "title": "KymaSifteo",
+    "description": "This application uses Sifteo to control Kyma in a ludic way ! <ul> <li>The first cube is the source</li> <li>The second cube is a filter</li> <li>The third one is a Low Frequency Oscillator (LFO)</li> </ul> You can change the sound which comes from the source with a filter. According to the side, you will have a high or low pass filter. Then on your filter you will be able to add a LFO.",
+    "version": "1.0.0",
+    "runtime" : "executable",
+    "server" : "127.0.0.1:7000",
+    "appModule": "UNUSED",
+    "devAppID": 1100002,
+    "requiredSiftCount": 1,
+    "imagesPath": "assets/images/full",
+    "soundsPath": "assets/sounds",
+    "instructions": "assets/instructions",
+    "coverArt": "covert.png",
+    "internalArt": "internal.png"
+  }
+}
